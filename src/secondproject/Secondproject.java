@@ -19,4 +19,4 @@ public class Secondproject {
         System.out.println(Math.min(c, b));
     }
     
-}
+} 
